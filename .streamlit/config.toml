@@ -1,0 +1,17 @@
+# Arquivo de Configuração do Tema do Streamlit
+
+[theme]
+# Cor primária para elementos interativos
+primaryColor="#1c83e1"
+
+# Cor de fundo principal
+backgroundColor="#0E1117"
+
+# Cor de fundo para elementos como a barra lateral
+secondaryBackgroundColor="#262730"
+
+# Cor do texto
+textColor="#FAFAFA"
+
+# Tipo de fonte
+font="sans serif"

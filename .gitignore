@@ -1,0 +1,13 @@
+# Ambiente Virtual
+.venv/
+
+# Arquivo de Segredos
+.env
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+#Arquivos de dados
+data/
+*.csv
