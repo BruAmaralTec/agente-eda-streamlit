@@ -19,9 +19,9 @@ components.html(
     height=0
 )
 
-st.set_page_config(page_title="Agente de E.D.A.", layout="wide")
+st.set_page_config(page_title="Agente de E.D.A Bruna Amaral.", layout="wide")
 
-st.title("🤖 Agente de E.D.A. do [Seu Nome]")
+st.title("🤖 Agente Autonomo para Análise Exploratória de Dados (E.D.A")
 
 st.sidebar.image("assets/logo.png", use_container_width=True)
 st.sidebar.header("Controles")
