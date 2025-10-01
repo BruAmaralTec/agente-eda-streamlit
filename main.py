@@ -28,8 +28,8 @@ components.html(
 # Configuração da página
 st.set_page_config(page_title="Agente de E.D.A.", layout="wide")
 
-# Título personalizado. Lembre-se de substituir "Bru Amaral".
-st.title("🤖 Agente de E.D.A. do Bru Amaral")
+# Título personalizado. Lembre-se de substituir "[Seu Nome]".
+st.title("🤖 Agente de E.D.A. de Amaral")
 
 # --- Configuração da Barra Lateral (Sidebar) ---
 st.sidebar.image("assets/logo.png", use_container_width=True)
