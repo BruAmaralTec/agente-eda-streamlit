@@ -27,7 +27,7 @@ components.html(
 
 # ... (código do título e da barra lateral, não precisa mudar) ...
 st.set_page_config(page_title="Agente de E.D.A.", layout="wide")
-st.title("🤖 Agente de E.D.A. do [Seu Nome]")
+st.title("🤖 Agente de E.D.A. da Bru Amaral")
 st.sidebar.image("assets/logo.png", use_container_width=True)
 st.sidebar.header("Controles")
 uploaded_file = st.sidebar.file_uploader("Escolha um arquivo CSV", type="csv")
